@@ -1,7 +1,7 @@
 # -ES-Exploratory-Data-Analysis
 EDA of ES continuous adjusted futures contract of Daily OHLCV data
 -
-time based data (Daily - 2500 rows - cleaned dataset without holidays/ETH only and halfdays/early closes)
+time based data (Daily RTH/ETH - 2500 rows - cleaned dataset without holidays and early closes)
 O - open
 H - high
 L - low
