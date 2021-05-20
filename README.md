@@ -6,7 +6,7 @@ Exploratory Data Analysis refers to the critical process of performing initial i
 ```python
 df = df.pivot("DoM", "M", "Pabs")
 sns.heatmap(df, annot=True, cmap="YlGnBu", fmt='.3g')
-# sns.heatmap(df, mask=df > 0.5, cbar=False)
+# sns.heatmap(df, mask=df > 0.8, cbar=False)
 plt.show()
 ```
 ![SPX heatmap](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/000_Heatmap_DoM_v_M_Pabs.png)
