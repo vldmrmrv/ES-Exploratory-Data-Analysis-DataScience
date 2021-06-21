@@ -16,5 +16,5 @@ plt.show()
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/010_ATH_1962-2020.png)
 
 ## #3 Example
-* Histogram - Distribution of ONp ranges during last 15 year for SPX. 
+* Histogram - Distribution of ONp ranges during last 15 year for S&P 500 futures. 
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/016_ONp%20histogram.png)
