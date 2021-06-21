@@ -14,3 +14,7 @@ plt.show()
 ## #2 Example
 * Linechart - SPX corrections from All time highs in % from 1962 to 2020. 
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/010_ATH_1962-2020.png)
+
+## #3 Example
+* Histogram - Distribution of ONp ranges during last 15 year for SPX. 
+![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/016_ONp%20histogram.png)
