@@ -30,3 +30,13 @@ plt.show()
 ## #6 Example
 * Globex gaps sizes and frequency of occurence (1692-2020). 
 ![Gaps](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/014_gap_size%201962-2020.png)
+
+## #7 Example
+* Mplfinance library - great library for visualisation of OHLC charts. 
+![mpl](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/008_mplfinance_print.png)
+
+## #8 Example
+* Daily line chartsfor visual comparation of stock market crashes confirms 3rd Quarter seasonall weakness even during outliers years.
+![crash](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/007_crashes.png)
+
+
