@@ -22,3 +22,11 @@ plt.show()
 ## #4 Example
 * Linechart - Markers showing +1% days related to percentage distance from ATHs. 
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/017_ath%20lines%20plus%20big%20moves%20(2020).png)
+
+## #5 Example
+* Rollover impact on open interest over the last 18 months (2020). 
+![Roll](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/009_OIChange%20detailed.png)
+
+## #6 Example
+* Globex gaps sizes and frequency of occurence (1692-2020). 
+![Gaps](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/014_gap_size%201962-2020.png)
