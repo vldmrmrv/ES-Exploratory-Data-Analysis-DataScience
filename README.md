@@ -20,5 +20,5 @@ plt.show()
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/016_ONp%20histogram.png)
 
 ## #4 Example
-* Linechart - Markers showing +1% moves in a day related to percentage distance from ATHs. 
+* Linechart - Markers showing +1% days related to percentage distance from ATHs. 
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/017_ath%20lines%20plus%20big%20moves%20(2020).png)
