@@ -36,7 +36,7 @@ plt.show()
 ![mpl](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/008_mplfinance_print.png)
 
 ## #8 Example
-* Daily lines chart for visual comparation of stock market crashes confirms 3rd Quarter seasonall weakness even during outliers years.
+* Daily lines chart for visual comparation of stock market crashes confirms 3rd Quarter seasonall weakness even during outlier years.
 ![crash](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/007_crashes.png)
 
 
