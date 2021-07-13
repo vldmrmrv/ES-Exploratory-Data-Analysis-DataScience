@@ -1,5 +1,5 @@
 ## EDA
-Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
+Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, to spot anomalies, to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
 ## #1 Example
 * Heatmap - averages of absolute percentage change of price in trading day of the month in last 20 years. Clearly visible the most volatile month of the year is October and very little price change during second half of the December.
