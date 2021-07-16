@@ -2,7 +2,7 @@
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, to spot anomalies, to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
 ## #1 Example
-* Heatmap - averages of absolute percentage change of price by trading day of the month for last 20 years. Clearly visible the most volatile month of the year is October and very little price change during second half of the December.
+* Heatmap - averages of absolute percentage change of price by trading day of the month for last 20 years. Clearly visible the most volatile month of the year is October and very little price change occures during second half of the December.
 ```python
 df = df.pivot("DoM", "M", "Pabs")
 sns.heatmap(df, annot=True, cmap="YlGnBu", fmt='.3g')
@@ -32,7 +32,7 @@ plt.show()
 ![Gaps](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/014_gap_size%201962-2020.png)
 
 ## #7 Example
-* Mplfinance library - great library for visualisation of OHLC charts. 
+* Mplfinance library - great library for visualisation of OHLC (candlestick, bar) charts. 
 ![mpl](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/008_mplfinance_print.png)
 
 ## #8 Example
