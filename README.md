@@ -16,7 +16,7 @@ plt.show()
 ![SPX2 heatmap](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/012_heatmap_volume.png)
 
 ## #2 Example
-* Linechart - SPX corrections from All time highs in % from 1962 to 2020. 
+* Linechart - SPX corrections from ATHs in % from 1962 to 2020. 
 
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/010_ATH_1962-2020.png)
 
