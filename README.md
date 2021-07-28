@@ -10,6 +10,8 @@ sns.heatmap(df, annot=True, cmap="YlGnBu", fmt='.3g')
 plt.show()
 ```
 ![SPX heatmap](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/000_Heatmap_DoM_v_M_Pabs.png)
+* Volume Heatmap - supports the first observation and shows clearly that December is very light in terms of volume traded.
+![SPX2 heatmap](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/012_heatmap_volume.png)
 
 ## #2 Example
 * Linechart - SPX corrections from All time highs in % from 1962 to 2020. 
