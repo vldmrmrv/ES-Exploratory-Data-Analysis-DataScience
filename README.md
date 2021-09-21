@@ -55,4 +55,8 @@ plt.show()
 
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/008_Y_Wiwo_week_types.png)
 
+## #10 Example
+* lmplot - VIX change vs SPX change - daily closing prices, hue = UP/DOWN days.
+
+![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/018_SPXvsVIX.png)
 
