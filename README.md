@@ -60,3 +60,8 @@ plt.show()
 
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/018_SPXvsVIX.png)
 
+## #11 Example
+* Heatmap - ES futures over 10 years period - number of trading day in 5% correction or lower.
+
+![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/019_below_5.png)
+
