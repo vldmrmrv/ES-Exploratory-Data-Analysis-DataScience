@@ -26,7 +26,7 @@ plt.show()
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/016_ONp%20histogram.png)
 
 ## #4 Example
-* Rollover impact on open interest over the last 18 months (2020). 
+* Futures rollover impact on open interest over the last 18 months (2020) in S&P 500 futures shows rolling over all the volume to new contract took about 6-8 trading days. 
 
 ![Roll](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/009_OIChange%20detailed.png)
 
