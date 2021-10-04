@@ -46,7 +46,7 @@ plt.show()
 ![crash](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/007_crashes.png)
 
 ## #8 Example
-* Histogram - Category "C" is the most common from dataset, representing almost 28% of the data.
+* Histogram - Day types - Type "C" is the most common from dataset, representing almost 28% of the data.
 
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/008_Y_Wiwo_week_types.png)
 
