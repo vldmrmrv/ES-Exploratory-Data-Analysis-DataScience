@@ -123,11 +123,6 @@ for p in ax.patches:
     print(percentage)
 plt.show()
 
-# signal - con1 rng>prng, con2 rth only
-df['con1'] = [1 if rng > prng else 0 for rng, prng in zip(df['RNG_ses'], df['pRNG_ses'])]
-df['con2'] = [1 if s == 1.5 or s == 2.5 or s == 3.5 or s == 4.5 or s == 5.5 else 0 for s in df['DoW']]
-df['signal'] = [1 if c1+c2 == 2 else 0 for c1, c2 in zip(df['con1'], df['con2'])]
-
 # plot line chart of Hi and Lo
 plt.plot(df['BOTH_H'])
 plt.show()
