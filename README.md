@@ -61,7 +61,7 @@ plt.show()
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/019_below_5.png)
 
 ## #11 Example
-* Histogram & Boxplot - "About 68% of values drawn from a normal distribution are within one standard deviation σ away from the mean; about 95% of the values lie within two standard deviations; and about 99.7% are within three standard deviations." ES futures daily ETH, 2010-2019 - median -0.07, 1σ -0.76, 0.62, 2σ -1.82, 2.06.
+* Histogram & Boxplot - "About 68% of values drawn from a normal distribution are within one standard deviation σ away from the mean; about 95% of the values lie within two standard deviations; and about 99.7% are within three standard deviations." ES futures daily %change ETH, 2010-2019 - median -0.07, 1σ -0.76, 0.62, 2σ -1.82, 2.06.
 ```python
 n, bins, patches = axes[1].hist(s, n_bins, density=True, stacked=True, alpha=.1, edgecolor='black')
 pdf = 1/(sigma*np.sqrt(2*np.pi))*np.exp(-(bins-mu)**2/(2*sigma**2))
