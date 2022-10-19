@@ -78,7 +78,7 @@ s1, s1b, s2, s2b = np.percentile(s, 15.9), np.percentile(s, 84.1), np.percentile
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/015_ath%20lines%20plus%20big%20moves%20(1960).png)
 
 ## #13 Example
-* ES HoDLoD clasifications (4 types, 2 classes).
+* ES HoDLoD classification (4 types, 2 classes).
 
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/021_ES_fades.png)
 
