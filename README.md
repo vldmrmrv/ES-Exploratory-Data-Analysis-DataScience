@@ -83,6 +83,11 @@ s1, s1b, s2, s2b = np.percentile(s, 15.9), np.percentile(s, 84.1), np.percentile
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/021_ES_fades.png)
 
 ## #14 Example
+* ES Monthly seasonality with one sigma confidence interval.
+
+![conf](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/022_confidence_interval.png)
+
+## #15 Example
 * CL HoDLoD of Month (2013-2022).
 
-![hist](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/016_cl_hodlod_dom.png)
+![cl_00](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/016_cl_hodlod_dom.png)
