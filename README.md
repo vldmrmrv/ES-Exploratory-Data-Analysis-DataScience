@@ -93,11 +93,16 @@ s1, s1b, s2, s2b = np.percentile(s, 15.9), np.percentile(s, 84.1), np.percentile
 ![IBv](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/023_CL_IBvLCRNG.png)
 
 ## #16 Example
+* ES RNG in RTH. Power BI - Chord (A graphical method of displaying the inter-relationships between data in a matrix).
+
+![IBv](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/099_powerbi_chord_prng.PNG)
+
+## #17 Example
 * ES stacked Bar chart visualizing trend of cparts.
 
 ![IOUTv](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/024_cpart_es_outlier.png)
 
-## #17 Example
+## #18 Example
 * CL HoMLoM (2013-2022).
 
 ![cl_00](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/016_cl_hodlod_dom.png)
