@@ -30,8 +30,8 @@ plt.show()
 
 ![Roll](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/009_OIChange%20detailed.png)
 
-## #5 Gaps
-* Globex gaps sizes and frequency of occurence (1962-2020). 
+## #5 ES ON Gaps
+* ES RTH only (globex) gaps sizes and frequency of occurence (1962-2020). 
 
 ![Gaps](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/014_gap_size%201962-2020.png)
 
