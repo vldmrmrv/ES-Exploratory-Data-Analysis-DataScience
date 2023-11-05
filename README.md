@@ -26,12 +26,12 @@ plt.show()
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/016_ONp%20histogram.png)
 
 ## #4 Rollover impact
-* Futures rollover impact on open interest over the last 18 months (2020) in S&P 500 futures shows rolling over all the volume to new contract took about 6-8 trading days. 
+* Futures rollover impact on open interest over the last 18 months (2020) in spooz shows rolling over all the volume to new contract took about 6-8 trading days on average. 
 
 ![Roll](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/009_OIChange%20detailed.png)
 
 ## #5 ES ON Gaps
-* ES RTH only (globex) gaps sizes and frequency of occurence (1962-2020). 
+* ES RTH only data shows (globex) gaps sizes and frequencies of occurence (1962-2020). 
 
 ![Gaps](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/014_gap_size%201962-2020.png)
 
@@ -41,7 +41,7 @@ plt.show()
 ![mpl](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/008_mplfinance_print.png)
 
 ## #7 Crashes
-* Daily lines chart for visual comparation of stock market crashes confirms 3rd Quarter seasonall weakness even during outlier years.
+* Daily lines chart for visual comparation of stock market crashes confirms 3rd Quarter seasonall weakness even during outliers years.
 
 ![crash](https://github.com/vldmrmrv/ES-studies-sample-DataScience/blob/main/007_crashes.png)
 
@@ -73,7 +73,7 @@ s1, s1b, s2, s2b = np.percentile(s, 15.9), np.percentile(s, 84.1), np.percentile
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/020_ES_pdf.png)
 
 ## #12 ATH moves
-* Expectation of large moves (> 1%) based on distance from all time high (ATH).
+* Visualization of large absolute moves (> 1%) based on distance from all time high (ATH).
 
 ![hist](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/015_ath%20lines%20plus%20big%20moves%20(1960).png)
 
