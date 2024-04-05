@@ -26,9 +26,13 @@ plt.show()
 ![ATH corr](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/016_ONp%20histogram.png)
 
 ## #4 Rollover impact
-* Futures rollover impact on open interest over the last 18 months (2020) in spooz shows rolling over all the volume to new contract took about 6-8 trading days on average. 
+* Futures rollover impact on open interest over the last 18 months (2020) in spooz shows rolling over all the volume to new contract took about 6-8 trading days on average. (ES futures closeing prices with markers for rollover dates) 
 
 ![Roll](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/009_OIChange%20detailed.png)
+
+![Roll1](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/025_ECR_v1.png)
+
+![Roll2](https://github.com/vldmrmrv/ES-Exploratory-Data-Analysis-DataScience/blob/main/EDA_charts/026_ECR_v2.png)
 
 ## #5 ES ON Gaps
 * ES RTH only data shows (globex) gaps sizes and frequencies of occurence (1962-2020). 
